@@ -54,7 +54,7 @@ const App = () => {
           name="description"
           value={formData.description}
           onChange={handleInputChange}
-          placeholder="Ingresa tu color favorito (formato HEX)"
+          placeholder="Ingresa tu color favorito (formato HE)"
           className={styles.input}
         />
         
